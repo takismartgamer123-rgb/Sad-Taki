@@ -1,0 +1,6 @@
+name = "taki-v14-emperor"
+main = "worker.js"
+compatibility_date = "2026-06-12"
+kv_namespaces = [
+  { binding = "POINTS_KV", id = "الـID_تاع_KV_تاعك" }
+]
