@@ -1,4 +1,4 @@
-name = "taki-v14-emperor"
+name = "taki"
 main = "worker.js"
 compatibility_date = "2026-06-12"
 kv_namespaces = [
